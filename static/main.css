@@ -83,3 +83,11 @@ a.article-title:hover {
 a {
 text-decoration: none;
 }
+
+.form-check {
+    margin-top: 4px;
+}
+
+.form-group {
+    margin-bottom: 4px;
+}
