@@ -91,3 +91,7 @@ text-decoration: none;
 .form-group {
     margin-bottom: 4px;
 }
+
+.navbar-expand-md .navbar-collapse {
+    justify-content:space-between;
+}
