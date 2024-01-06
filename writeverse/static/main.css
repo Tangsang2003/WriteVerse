@@ -95,3 +95,12 @@ text-decoration: none;
 .navbar-expand-md .navbar-collapse {
     justify-content:space-between;
 }
+
+.account-media {
+    display: flex;
+}
+
+.profile-picture-update {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
