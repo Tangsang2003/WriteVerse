@@ -35,6 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .article-title {
   color: #444444;
+  text-align: justify;
 }
 
 a.article-title:hover {
@@ -44,6 +45,7 @@ a.article-title:hover {
 
 .article-content {
   white-space: pre-line;
+  text-align: justify;
 }
 
 .article-img {
