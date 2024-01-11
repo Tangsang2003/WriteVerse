@@ -1,4 +1,7 @@
-from writeverse import app
+from writeverse import create_app
+
+
+app = create_app()
 
 if __name__ == '__main__':
     app.run(debug=True)
