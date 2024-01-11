@@ -26,8 +26,11 @@ def create_app(config_class=Config):
     from writeverse.users.routes import users
     from writeverse.posts.routes import posts
     from writeverse.main.routes import main
+    from writeverse.errors.handlers import errors
+
     app.register_blueprint(users)
     app.register_blueprint(posts)
     app.register_blueprint(main)
+    app.register_blueprint(errors)
 
     return app
