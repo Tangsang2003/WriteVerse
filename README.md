@@ -1,5 +1,5 @@
 # WriteVerse
-#### Video Demo: https://youtu.be/eZeO4jWgudI
+#### [Video Demo](https://youtu.be/eZeO4jWgudI)
 #### Description:
 ## WriteVerse: Express and Share 📖
 WriteVerse is a simple web application project that allows users to express their 
